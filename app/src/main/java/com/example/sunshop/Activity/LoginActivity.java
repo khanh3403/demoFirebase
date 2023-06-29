@@ -30,7 +30,7 @@ public class LoginActivity extends AppCompatActivity {
         LoginAdapter adapter = new LoginAdapter(this);
         viewPager.setAdapter(adapter);
         animate();
-
+        // giao dien fragment login,sign up
         new TabLayoutMediator(tabLayout, viewPager, (tab, position) -> {
             switch (position) {
                 case 0:

@@ -35,7 +35,7 @@ public class SplashActivity extends AppCompatActivity {
         app_name.animate().translationX(0).alpha(1).setDuration(1000).setStartDelay(800).start();
         logo.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(800).start();
         lottie.animate().translationX(2000).setDuration(3000).setStartDelay(3900);
-
+        // man hinh chao
         new Handler().postDelayed(() -> {
             Intent i = new Intent(getApplicationContext(), LoginActivity.class);
             startActivity(i);

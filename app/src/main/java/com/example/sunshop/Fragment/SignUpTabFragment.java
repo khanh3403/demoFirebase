@@ -30,7 +30,7 @@ public class SignUpTabFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_sign_up_tab, container, false);
-        edt_phone = root.findViewById(R.id.edt_name_customer);
+        edt_phone = root.findViewById(R.id.edt_phone_customer);
         edt_pass = root.findViewById(R.id.edt_Pass_customer);
         edt_name = root.findViewById(R.id.edt_name_customer);
         Button btn_signup = root.findViewById(R.id.btn_add_customer);
