@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "653970713436",
+    "project_id": "sunshop-ab617",
+    "storage_bucket": "sunshop-ab617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653970713436:android:0e341c3cfdb309822bef99",
+        "android_client_info": {
+          "package_name": "com.example.managerShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI59hI6VZCYarQzMkmr-LT505dGc7Be1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653970713436:android:3d98ae23956df03f2bef99",
+        "android_client_info": {
+          "package_name": "com.example.sunShop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653970713436-if96l84focv4s4qdimh30aoe9ua95vbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunShop",
+            "certificate_hash": "d8f47ae21a6c159d6d7c24005bba7b9babc7560c"
+          }
+        },
+        {
+          "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI59hI6VZCYarQzMkmr-LT505dGc7Be1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653970713436:android:264c797c2b5316f52bef99",
+        "android_client_info": {
+          "package_name": "com.example.sunshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI59hI6VZCYarQzMkmr-LT505dGc7Be1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653970713436-uq0k7r9dolvmdk169qcblmk30afskhmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
